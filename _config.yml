@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-CN"
-title                    : "Zhonghua Wu / Academic Pages"
+title                    : "Academic Pages"
 title_separator          : "-"
 name                     : &name "Zhonghua Wu"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zhonghua Wu"
-  pronouns         : "he/him"  # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "China"
   employer         : "Red Brick University"
